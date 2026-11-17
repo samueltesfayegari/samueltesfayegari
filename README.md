@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I’m Samuel Tesfaye Gari 👋
+# Hi there, I’m Samuel Tesfaye Gari 👋
 
 Developer exploring code, visuals, and creative problem-solving.
 

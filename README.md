@@ -2,15 +2,9 @@
 
 Developer exploring code, visuals, and creative problem-solving.
 
-I enjoy building projects that blend logic with experimentation — especially in TypeScript, JavaScript, and browser-based visual experiences.
+I enjoy building projects that blend logic with experimentation — especially in TypeScript, JavaScript, and browser-based visual experiences. Currently exploring: creative coding, visual experiments, and TypeScript-driven projects, Learning cleaner frontend patterns, interactive visuals, and better developer tooling, Interested in: projects that mix technical depth with creative expression and I like turning small ideas into interactive, visual, and playful experiences.
 
-## About Me
-
-- 🔭 Currently exploring: creative coding, visual experiments, and TypeScript-driven projects
-- 🌱 Learning: cleaner frontend patterns, interactive visuals, and better developer tooling
-- 👯 Interested in: projects that mix technical depth with creative expression
-- 💬 Ask me about: JavaScript, TypeScript, web experiments, and graphics-inspired coding
-- ⚡ Fun fact: I like turning small ideas into interactive, visual, and playful experiences
+Ask me about: JavaScript, TypeScript, web experiments, and graphics-inspired coding
 
 ## Tech Stack
 
@@ -36,17 +30,6 @@ A JavaScript experiment inspired by the classic spinning donut effect — simple
 ### [formula_fork](https://github.com/samueltesfayegari/formula_fork)
 A fork exploring the relationship between math and graphics, inspired by formula-driven 3D rendering.
 
-## Current Focus
-
-- Building experiments that combine code with visual results
-- Exploring formula-based graphics and rendering ideas
-- Improving my understanding of front-end and creative coding workflows
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueltesfayegari&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltesfayegari&layout=compact&theme=radical)
 
 ## Connect
 
